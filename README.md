@@ -24,3 +24,10 @@ Then visit `http://localhost:8000` in your browser. Alternatively, open `index.h
 This snapshot captures one date, not real-time news. The supplied archive did **not** contain original article pages or the live platform backend. Generated story pages therefore show the homepage headline/summary only, while category pages use the available archive headlines. Links to outside sites may still open externally. No authentication, subscription transactions, or official NYT services are replicated.
 
 No client-side tracking is added. This demo should not be presented as an official New York Times publication or used for credentials or payments.
+
+## Newly added feature
+
+- **Could “Human Error” Become the Biggest Anti-AI Movement Yet?**: `pages/human-error-anti-ai-movement.html`
+- The new story is featured at the top of the local homepage and indexed by local search.
+- `human-error-article.md` provides editable source text.
+- This is an independent draft within a demo; it has not been published to a live newspaper website.
